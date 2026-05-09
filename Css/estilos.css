@@ -71,3 +71,110 @@ footer {
       padding: 2em 1em;
       font-size: 0.95em;
     }
+
+.slider{
+    width: 90%;
+    max-width: 900px;
+    height: 450px;
+    margin: 30px auto;
+    border-radius: 20px;
+    display: flex;
+    gap: 20px;
+    background: #ddd;
+    padding: 15px;
+}
+
+.slide{
+    border-radius: 15px;
+}
+
+.slide img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    display: block;
+}
+
+.slide:hover{
+    transform: scale(1.03);
+    transition: 0.5s;
+}
+
+.bit{
+    background: #fff9e6;
+    padding: 20px;
+    max-width: 1100px;
+    margin: auto;
+    text-align: center;
+    color: black;
+    border-radius: 5px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.192);
+
+}
+.secb{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 5px;
+    color: black;
+}
+
+.secdos{
+    background: #F9DC5C;
+    width: 550px;
+    height: 400px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.sectres{
+    background: #D0D6B5;
+    width: 550px;
+    height: 400px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.charlas {
+    display: flex;
+    gap: 15px;
+}
+
+.roblox{
+    background: #fff9e6;
+    padding: 20px;
+    max-width: 1100px;
+    margin: auto;
+    text-align: center;
+    color: black;
+    border-radius: 5px;
+    box-shadow: 10px 10px rgba(0, 0, 0, 0.192);
+}
+
+.rox{
+ gap: 15px;
+ display: flex;
+}
+
+.runo{
+    background: #cbcbcd;
+    width: 550px;
+    height: 340px;
+    color: black;
+    justify-content: center;
+    align-items: center;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+.gen{
+    display: flex;
+    justify-content: center
+
+}
+
