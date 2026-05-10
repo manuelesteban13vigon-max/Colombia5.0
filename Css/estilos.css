@@ -177,4 +177,53 @@ footer {
     justify-content: center
 
 }
+/*apartado 4*/
+.espacio-principal {
+    padding: 40px 20px;
+    background-color: #0080ff; 
+}
+
+.tarjeta {
+    max-width: 900px;
+    margin: 0 auto;
+    background: #ffffff;
+    border-radius: 15px;
+    padding: 35px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.titulo-apartado {
+    color: #1c68eb;
+    border-left: 6px solid #6a11cb;
+    padding-left: 15px;
+    margin-bottom: 25px;
+    font-size: 24px;
+}
+
+.bloque-t h3, .bloque-m h3 {
+    color: #616060;
+    margin-top: 20px;
+}
+
+.video-elemento, .imagen-elemento {
+    width: 100%;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(233, 15, 15, 0.15);
+    margin-top: 15px;
+}
+
+.pie-foto {
+    font-size: 0.9em;
+    color: #666;
+    text-align: center;
+    margin-top: 10px;
+    font-style: italic;
+}
+
+.bloque-m {
+    margin-top: 30px;
+    padding-top: 20px;
+    border-top: 1px solid #eee;
+}
 
